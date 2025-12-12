@@ -25,24 +25,17 @@ To ensure fairness and consistency:
 
 - All work must be committed and pushed to GitHub within **1 hour 15min** of the exam start.
 - External monitors are not allowed. Use only your laptop’s built‑in screen.
-- You will be placed in a breakout room.
 
-**Before joining the breakout room:**
-- Clean your desktop (move private files into a temporary folder). 
-- Test the **Record** button in Zoom.   
-- Ensure the recording captures your **entire desktop**, including VS Code and browser, as [shown here](./material/zoom/zoom1.png).
 
-**Once in the breakout room:**
-- Share your screen.
-- Start recording in Zoom.  
-- Confirm that recording is active. 
-- Hide names of annotators and the floating meeting controls, as [shown here](./material/zoom/zoom2.png).
+**Exam Recording Instructions**
 
-**After the exam:**
-- Exit full‑screen mode (ESC on Windows, Command+Shift+F on Mac).  
-- Stop the recording and close Zoom. The recording will be saved locally.  
-- Upload the recording to SharePoint by **20:00**.  
-- If you encounter any difficulties using SharePoint or OneDrive, please let me know and I will provide you with an alternative upload link.
+- *Recording Requirement*: The coding session must be recorded on your local machine.  
+- *Retention Period*: Do not delete the recording until **17th of December**.  
+- *Possible Review Situations*: I may request your recording if:  
+  - You do not push to GitHub immediately after committing an iteration.  
+  - I suspect the use of coding agents.  
+  - There is noticeable similarity in code submissions.  
+- *How to Record*: Follow the steps outlined in [Recording with Zoom](./material/recording.md). We will review these instructions together before starting the exam.  
 
 
 **Commit and Push Every Change**
